@@ -41,7 +41,6 @@ svg
 
 drawGraph(minYear);
 
-
 d3.select('input')
     .property('min', minYear)
     .property('max', maxYear)
